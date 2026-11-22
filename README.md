@@ -1,16 +1,16 @@
-## Hii!!
+## Hii, I'm Rhea! :3
 
-<!--
-**bubblyeon/bubblyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student interested in older tech, engineering, creative endeavours, and learning about how the brain works. I love experimenting with random things and combining technology with art.
 
-Here are some ideas to get you started:
+# 🌱 Currently Looking for an Internship!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Technologies & Tools
+- **Languages:** C, Python, Java, HTML, C, JavaScript
+- **Tools:** VS Code, Excel, Clip Studio Paint
+
+# 🎯 Goals
+- Build more personal projects
+- Improve my programming skills
+
+---
+ꉂ(˵˃ ᗜ ˂˵)/ Thank you for visiting my profile!
