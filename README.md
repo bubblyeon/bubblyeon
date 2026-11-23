@@ -5,7 +5,7 @@ I'm a computer science student interested in older tech, engineering, creative e
 ## 🌱 Currently Looking for an Internship!
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C, Python, Java, HTML, C, JavaScript
+- **Languages:** C, Python, Java, HTML, JavaScript
 - **Tools:** VS Code, Excel, Clip Studio Paint
 
 ## 🎯 Goals
